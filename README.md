@@ -1,5 +1,5 @@
 # KPI-Visualization-Tools
-Used to create graphics to display KPI's for SCB
+Used to create graphics to display KPI's for Standard Chartered Bank
 
 Instructions:
 - Set your KPI band to the appropriate percentage points out of 100
